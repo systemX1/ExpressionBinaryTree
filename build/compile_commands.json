@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/Papers/Data Structure and Algorithm/HomeWork52/build",
+  "command": "\"D:\\Program Files\\mingw64\\bin\\g++.exe\"  -g -static -Os -DNDEBUG   -std=c++11 -o CMakeFiles\\result.dir\\Main.cpp.obj -c \"D:\\Papers\\Data Structure and Algorithm\\HomeWork52\\Main.cpp\"",
+  "file": "D:/Papers/Data Structure and Algorithm/HomeWork52/Main.cpp"
+}
+]
